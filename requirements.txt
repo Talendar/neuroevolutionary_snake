@@ -1,0 +1,5 @@
+certifi==2020.11.8
+numpy==1.19.4
+pygame==2.0.0
+pygame-menu==3.3.2
+pyperclip==1.8.1
