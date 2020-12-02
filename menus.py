@@ -142,7 +142,7 @@ class VisualizationMenu:
         self._gen = gen
 
     def _visualize(self):
-        self._pop.start(self._gen - 1)
+        self._pop.start(self._gen)
         pygame.display.set_mode((self._width, self._height))
 
 
